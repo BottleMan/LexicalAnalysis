@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 运算符配置文件 -->
+<Data>
+  <String>=</String>
+  <String>+</String>
+  <String>-</String>
+  <String>*</String>
+  <String>/</String>
+  <String>%</String>
+  <String>&amp;</String>
+  <String>|</String>
+  <String>^</String>
+  <String>!</String>
+  <String>&amp;&amp;</String>
+  <String>||</String>
+  <String>+=</String>
+  <String>-=</String>
+  <String>*=</String>
+  <String>/=</String>
+  <String>++</String>
+  <String>--</String>
+</Data>

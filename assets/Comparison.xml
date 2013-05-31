@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关系符配置文件 -->
+<Data>
+  <String>&gt;</String>
+  <String>&lt;</String>
+  <String>&gt;=</String>
+  <String>&lt;=</String>
+  <String>==</String>
+  <String>&lt;&gt;</String>
+  <String>!=</String>
+</Data>

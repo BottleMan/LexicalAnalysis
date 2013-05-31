@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关键字配置文件 -->
+<Data>
+  <String>auto</String>
+  <String>break</String>
+  <String>case</String>
+  <String>char</String>
+  <String>const</String>
+  <String>continue</String>
+  <String>default</String>
+  <String>do</String>
+  <String>double</String>
+  <String>else</String>
+  <String>enum</String>
+  <String>extern</String>
+  <String>float</String>
+  <String>for</String>
+  <String>goto</String>
+  <String>if</String>
+  <String>int</String>
+  <String>include</String>
+  <String>long</String>
+  <String>register</String>
+  <String>return</String>
+  <String>short</String>
+  <String>signed</String>
+  <String>sizeof</String>
+  <String>static</String>
+  <String>struct</String>
+  <String>switch</String>
+  <String>typedef</String>
+  <String>union</String>
+  <String>unsigned</String>
+  <String>void</String>
+  <String>volatile</String>
+  <String>while</String>
+  <String>printf</String>
+  <String>scanf</String>
+  <String>main</String>
+</Data>
